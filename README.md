@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/65b08d0e-116b-4221-b5c4-eb453df8f057)
 
-Math World is an interactive educational game designed to make arithmetic practice fun and engaging. Players strengthen their math skills by solving problems to unlock special cards, which they can then use to battle a computer-controlled opponent in a turn-based card game. Each correct answer empowers the player with stronger cards, promoting both learning and strategic thinking.
+Math World is an interactive educational game designed to make arithmetic practice fun and engaging. Players strengthen their math skills by solving problems to unlock special cards, which they can then use to battle a computer-controlled opponent in a turn-based card game. Each level allows the user to get stronger cards, helping them win more trophies and advance to new levels.
 
 ![image](https://github.com/user-attachments/assets/075ba7c4-b279-49a6-8129-4678f6537cf3)
 
